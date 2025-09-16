@@ -16,3 +16,9 @@
 - 📩 Email: [kaankadirgokcek@hotmail.com](mailto:kaankadirgokcek@hotmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kaan-kadir-g%C3%B6k%C3%A7ek-88b81a203/)  
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaanKadirGokcek&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanKadirGokcek&layout=compact&theme=radical" alt="langs"/>
+</p>
