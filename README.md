@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center"> Hi, I'm Kaan 👋! </h1>
+<p align="center">
+  <i>A passionate developer with a background in robotics, AI, and instructional technologies.</i><br/>
+  🎓 Software Engineering graduate from <b>Haliç University</b>
+</p>
 
-<!--
-**KaanKadirGokcek/KaanKadirGokcek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect
+
+- 📩 Email: [kaankadirgokcek@hotmail.com](mailto:kaankadirgokcek@hotmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaan-kadir-g%C3%B6k%C3%A7ek-88b81a203/)  
+
