@@ -1,4 +1,4 @@
-[! [MasterHead](https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/64d6bd51ab17a00828b644bf_header.webp)
+![MasterHead](https://images.aloa.co/posts/7-most-influential-ai-developer-tools/64d6bd51ab17a00828b644bf_header.webp)
 
 <h1 align="center">Hi 👋, I'm Kaan Kadir Gökçek</h1>
 <h3 align="center">A passionate AI Developer from Türkiye</h3>
